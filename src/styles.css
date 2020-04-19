@@ -1,0 +1,38 @@
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 0px;
+  }
+
+  .table {
+   height:100%;
+   width:100%;
+  }
+
+ .firstCol {
+     background: #dcd0c0;
+     text-align: center;
+     padding: 20px;
+     width: 60%;
+ }
+
+ .secondCol {
+     background:#c0b283;
+     text-align: center;
+     width: 40%;
+ }
+
+ .jumbotron {
+    width: 60%;
+    height: 200px;
+    background-image: url('./img/aperture-vintage-T-uuZBzB09M-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    color: #dcd0c0;
+    text-align: center;
+    font-family: Georgia italic, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin: auto;
+    padding-top: 50px;
+ }
