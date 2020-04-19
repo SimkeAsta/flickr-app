@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flickr-app/static/css/main.1922a702.chunk.css",
+    "main.js": "/flickr-app/static/js/main.2dcc377e.chunk.js",
+    "main.js.map": "/flickr-app/static/js/main.2dcc377e.chunk.js.map",
+    "runtime-main.js": "/flickr-app/static/js/runtime-main.8d789f51.js",
+    "runtime-main.js.map": "/flickr-app/static/js/runtime-main.8d789f51.js.map",
+    "static/js/2.65709888.chunk.js": "/flickr-app/static/js/2.65709888.chunk.js",
+    "static/js/2.65709888.chunk.js.map": "/flickr-app/static/js/2.65709888.chunk.js.map",
+    "index.html": "/flickr-app/index.html",
+    "precache-manifest.a30187d4df593c6d9c2b85893346630c.js": "/flickr-app/precache-manifest.a30187d4df593c6d9c2b85893346630c.js",
+    "service-worker.js": "/flickr-app/service-worker.js",
+    "static/css/main.1922a702.chunk.css.map": "/flickr-app/static/css/main.1922a702.chunk.css.map",
+    "static/js/2.65709888.chunk.js.LICENSE.txt": "/flickr-app/static/js/2.65709888.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/flickr-app/static/media/aperture-vintage-T-uuZBzB09M-unsplash.6830ecbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d789f51.js",
+    "static/js/2.65709888.chunk.js",
+    "static/css/main.1922a702.chunk.css",
+    "static/js/main.2dcc377e.chunk.js"
+  ]
+}
