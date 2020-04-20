@@ -24,7 +24,7 @@
 
  .jumbotron {
     width: 60%;
-    height: 200px;
+    height: 150px;
     background-image: url('./img/aperture-vintage-T-uuZBzB09M-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,5 +34,5 @@
     font-family: Georgia italic, 'Times New Roman', Times, serif;
     font-size: x-large;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 30px;
  }
